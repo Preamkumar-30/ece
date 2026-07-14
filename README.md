@@ -3,4 +3,4 @@
 1. git
 2. maven
 3. jenkins
-4. 
+4. docker
